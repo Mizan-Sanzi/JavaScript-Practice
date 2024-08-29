@@ -30,3 +30,8 @@ var yearNow = 2024;
 console.log("And the year now is:", yearNow);
 var presentAge = yearNow-birthYear;
 console.log("So my present age is:", presentAge);
+var data;
+console.log(data);
+const salary = 30000;
+salary=35000;
+console.log(salary);
