@@ -23,7 +23,7 @@ console.log("Hello, this is the javascript coding practice.");
 *******************************************************************************************************
 
 */
-console.log("This is my birth year: 1989");
+console.log("This is my birth year: 1995");
 var birthYear = 1995;
 console.log("The data", birthYear, "is:", typeof birthYear);
 var yearNow = 2024;
